@@ -1,4 +1,6 @@
 # Garbage Collection
 
-``` public class Test{
+``` java
+public class Test{
+    
 } ```
