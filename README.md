@@ -28,5 +28,8 @@ An object is avalaible for *Garbage Collection* when the referrence is assigned 
 * Why the question challenge you?
     * The question was tricky for because I didnt know much about garbage collection and it appeared almost all exams that I have written. So decided to study the *Garbage Collection* so that I can understand what is it and how it works.
     
-*  What did you learn from the qustion?
-    * I have learned when can *Garbage Collection* be available 
+* What did you learn from the qustion?
+    * I have learned when can *Garbage Collection* be available.
+    
+* Which other concept are related to this question?
+    * Memory Management
