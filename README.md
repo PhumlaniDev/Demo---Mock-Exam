@@ -26,3 +26,4 @@ What could be inserted at // 1, which will make the object referred to by obj el
 An object is avalaible for garbage collection when the referrence is assigned to null, meaning the referrence is not used.
 
 * Why the question challenge you?
+** The question was tricky for because I didnt know much about garbage collection and it appeared almost all exms that I have written.
