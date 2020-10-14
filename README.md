@@ -5,7 +5,7 @@ public class Test{
     void test(){
         MyClass obj = new MyClass();
         obj.name = "jake";
-        //insert code here
+        // 1
     }
 }
 
@@ -18,3 +18,5 @@ public class MyClass{
 ```
 
 ## Question
+
+What could be inserted at // 1, which will make the object referred to by obj eligible for Garbage Collection?
