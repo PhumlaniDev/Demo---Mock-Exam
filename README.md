@@ -20,3 +20,7 @@ public class MyClass{
 ## Question
 
 What could be inserted at // 1, which will make the object referred to by obj eligible for Garbage Collection?
+
+## My Understanding
+
+An object is avalaible for garbage collection when the referrence is assigned to null, meaning the referrence is not used.
